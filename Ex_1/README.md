@@ -15,6 +15,13 @@ Inputs can be in the form:
 Program will assume all atoms in the molecule are involved in the pi system
 meaning that any molecule with the same adjacency will give the same result.
 
+## Required libraries
+numpy
+pysmiles
+networkx
+urllib
+scipy
+
 ## Complete tasks?
 
 Linear and cyclic polyenes, buckminsterfullerene: IUPAC or SMILE inputs work
